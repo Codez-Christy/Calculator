@@ -1,0 +1,19 @@
+in Javascript a Function is areusable block of code that perform a specific task or set of task 
+or set of task.Function are one of the fundamental building block of javascript 
+programming and are used to organize code into managable and modular pieces
+Here are some key Characteristics and feature of functions in Javscript;
+
+1;Declaration;
+You can declare a function using the function keyword, followed by the function name.
+A list of parameters (if any), and the function body enclosed in curly braces {}.
+
+2.Parameters;
+Functions Can take parameter , which are variables that acts placeholder for values
+passed to the function when it is called.
+
+3.Invocation;
+Function are executed (or invoked) by calling the function name followed by parentheses ().
+
+4.Return Statement;
+Function can be returned a value using the return keyword. If no returns is Present,
+the function returns undefined by default.

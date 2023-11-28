@@ -1,0 +1,43 @@
+Variables and Datatypes in Js
+
+
+1;Variables
+What is a Variable?
+    -> In Javascript a Variable is a Contanier for storing data Values
+    -> You can think of it as a named storage location that can hold different
+    types of data, such as Numbers , Strings or Objects .
+
+How are Variables declared in Js?
+   -> For one to be able to use a variable , One must first declare the variable
+   -> To Declare a variable in Js we use the following key 'let' , 'var'
+      'const' followed by the variable name.
+   -> Eg;
+          var name = "John";
+          let fullname = "JohnDoe";
+          const pi = 3.142;
+          
+How are Variables used in Js?
+   ->
+Why do we need variables in Js?
+   -> Variables are crucial in Javascript (and programming in gerenal) because they enable you to store and manage data dynamically. Instead of Hardcoding values directly into your code , you can use variables to represent and manipulate data.This make your code more flexible , readable and easier to maintain. Variables allow you to reuse and update values efficiently .
+
+Are there types of Variable in Js?
+  -> Javascript is a adynamically typed language meaning you dont explicitly specify the data type of a variable .However, Variables can hold values of various types. The main data types in Javscript include ;
+   -Number; Represent numeric value
+   -String; Represent textual data
+   -Boolean; Represent either true or false
+   -object; Represent a colection of key-value pairs
+   -Array; Represent an ordered 
+   -Null; Represent absent of the value
+   -Undefined; Represent an uninitialized variable
+
+What are the rules of naming Variables is Js?
+   When naming variables in Javascript , You need to follow some rules
+
+1.Variables names are case-sensitive (myVar and myvar are different variables)
+2.Variables names must begin with a letter , underscore (_), or dollar sign ($)
+3.Subsequent characters can also be digits (0-9).
+4.Variables names cannot be reserved keywords (e.g; let, if, else, for, etc)  
+5.its good practice to use descriptive names that convey the purpose of the variable.
+6.Camelcase is commonly used for variabled names with the first word lowercase
+and subsequent word capitalized (e.g ; myVariablename). 
